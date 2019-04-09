@@ -1,3 +1,3 @@
 # Thread_pool_copy
 Thread_pool_copy
-Thread pool copy
+linux环境下线程池实现拷贝
