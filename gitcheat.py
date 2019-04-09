@@ -18,7 +18,7 @@ def everyday(date):
     number = random.randint(1, 10)
     datestr = str(date)
     for num in range(1, number):
-        f = open("cheat.txt", "w")
+        f = open("cheat.txt", "w+")
         writenumber = random.uniform(0, 100)
         f.write(str(writenumber))
         f.close()
